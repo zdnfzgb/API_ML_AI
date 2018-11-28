@@ -1,21 +1,24 @@
 ## 产品需求文档
 
 - 发布日期：2018年11月24日 
-- 主题：人脸识别+声纹签到 
+- 主题：人脸识别+语音签到 
 - 文件现状：进行中 
 - 文件的主人：张广彬 
-- 领头的设计师：张广彬 
-- 领头的开发者：张广彬 
-- 领头的测试者：张广彬 
 
 ### 会用到的API
-- 百度的人脸对比API、百度的语音识别API以及高德地图API
+- 百度的人脸对比API、百度的语音识别、API以及高德地图API
 
 ### API的输入与输出
+- 图示：
+ ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
+
+### 产品工作流程
+- 流程图：
+ ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
 
 
 ### 目标
-- 产品处于一个尴尬的幻想期，也就是只有想法而已。加上一些对API的简单理解，就直接构想出来了。对于此次的目标，暂时只有一小点，把想法通过API连接起来，并最终能测试出来对应的功能。
+- 让产品能够有着其存在的价值，或者换句话说能够让想法解决到现实中存在的问题，不枉作者本人的心血，现在正处于完善的阶段，需要不断的支持与大力的建议，谢谢。
 
 ### 用户定位
 - 学生群体，主要是用于学生的上课签到考勤。
@@ -34,7 +37,7 @@
 - 笔记：无
 
 ### 使用者交互设计
- - 低保证的交互原型：
+ - 低保真的交互原型：
  ![交互原型](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5)
 
 ### 问题
