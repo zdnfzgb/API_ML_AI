@@ -10,7 +10,7 @@
 
 ### API的输入与输出
 - 图示：
- ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
+A2[A] -- 描述 --- B2[B] 
 
 ### 产品工作流程
 - 流程图：
