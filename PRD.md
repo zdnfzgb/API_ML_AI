@@ -10,17 +10,6 @@
 
 ### API的输入与输出
 - 图示：
-mermaid
-graph LR
-    A[A] --> B[B] 
-    A1[A] --- B1[B] 
-    A4[A] -.- B4[B] 
-    A5[A] -.-> B5[B] 
-    A7[A] ==> B7[B] 
-    A2[A] -- 描述 --- B2[B] 
-    A3[A] -- 描述 --> B3[B] 
-    A6[A] -. 描述 .-> B6[B] 
-    A8[A] == 描述 ==> B8[B]
 
 作者：lkkwxy
 链接：https://www.jianshu.com/p/b421cc723da5
