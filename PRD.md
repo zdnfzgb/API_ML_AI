@@ -10,12 +10,8 @@
 
 ### API的输入与输出
 - 图示：
-
-作者：lkkwxy
-链接：https://www.jianshu.com/p/b421cc723da5
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
-
+ ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
+)
 ### 产品工作流程
 - 流程图：
  ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
