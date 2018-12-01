@@ -33,6 +33,7 @@
 - 因为mardown中显示ipynb文档的效果不好，请点击链接来查看代码展示，谢谢
 > <https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
 
+
 ### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
 - 流程图：
  ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
@@ -65,6 +66,9 @@
 - 可以完成的问题：完成一些基本的签到任务，可以对人脸进行简单的识别，对人声进行简单的识别，最终完成同学的签到。
 
 ### 不做
+
+#### Python代码展示
+- https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb
 
 #### API的输入与输出
 - http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
