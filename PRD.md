@@ -6,7 +6,8 @@
 - 文件的主人：张广彬 
 
 ### 加值宣言
--     本产品中包含三个人工智能API,分别是百度的人脸对比API、百度的语音识别、API以及高德地图API。其中他们实现的主要功能时签到考勤，但避免了传统考勤系统的毛病（存在虚假考勤的情况）。通过对签到人最直接有效的API智能识别，来使签到考勤的有效性大幅度的提升。当然也会存在不足的地方，但这是进步的基础，如果您发现了不足之处，欢迎联系我，谢谢。
+
+-  本产品中包含三个人工智能API,分别是百度的人脸对比API、百度的语音识别、API以及高德地图API。其中他们实现的主要功能时签到考勤，但避免了传统考勤系统的毛病（存在虚假考勤的情况）。通过对签到人最直接有效的API智能识别，来使签到考勤的有效性大幅度的提升。当然也会存在不足的地方，但这是进步的基础，如果您发现了不足之处，欢迎联系我，谢谢。
 
 ### 核心价值宣言
 - 最小可用产品：用最低的成本设计出来只含有核心功能的app，核心功能主要围绕着签到功能来进行，通过api来进行不断的核实，最终确定签到人身份，完成签到。为了减低成本，小程序是一项可选的降低成本的方案，而且小程序是一个强有力支持的大平台，增加最小可用产品实施的可行性。
@@ -60,4 +61,11 @@
 
 ### 不做
 
-##  产品工作流程图<http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104>
+#### API的输入与输出
+- http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
+
+#### 产品工作流程图
+- http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104
+
+#### 低保真的交互原型
+- http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5
