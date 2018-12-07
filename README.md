@@ -21,7 +21,7 @@
 ### 需求列表与人工智能API加值 
 - >产品中使用的加值有反映到需求列表中，可用的api有三个，具体的包含如下文所示。
 
-### 交互与界面设计
+### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
  - 低保真的交互原型：
  ![交互原型](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5)
 
@@ -68,14 +68,17 @@
 
 ### 不做
 
-#### Python代码展示
+## 交互与界面设计
+- https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/
+
+## Python代码展示
 - https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb
 
-#### API的输入与输出
+## API的输入与输出
 - http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
-
-#### 产品工作流程图
+ 
+## 产品工作流程图
 - http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104
 
-#### 低保真的交互原型
+## 低保真的交互原型
 - http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5
