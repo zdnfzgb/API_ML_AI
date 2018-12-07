@@ -22,9 +22,7 @@
 - >产品中使用的加值有反映到需求列表中，可用的api有三个，具体的包含如下文所示。
 
 ### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
- - 低保真的交互原型：
- ![交互原型](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5)
-
+ - >交互原型：<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
 
 ### 会用到的API
 >百度的人脸对比API、百度的语音识别、API以及高德地图API
