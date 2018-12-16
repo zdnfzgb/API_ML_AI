@@ -7,12 +7,13 @@
 
 ### 加值宣言
 
-- >本产品中包含三个人工智能API,分别是百度的人脸对比API、百度的语音识别、API以及高德地图API。其中他们实现的主要功能时签到考勤，但避免了传统考勤系统的毛病（存在虚假考勤的情况）。通过对签到人最直接有效的API智能识别，来使签到考勤的有效性大幅度的提升。当然也会存在不足的地方，但这是进步的基础，如果您发现了不足之处，欢迎联系我，谢谢。
+- 本产品中包含三个人工智能API,分别是百度的人脸对比API、百度的语音识别、API以及高德地图API。其中他们实现的主要功能时签到考勤，但避免了传统考勤系统的毛病（存在虚假考勤的情况）。通过对签到人最直接有效的API智能识别，来使签到考勤的有效性大幅度的提升。
+- 让产品能够有着其存在的价值，或者换句话说能够让想法解决到现实中存在的问题，不枉作者本人的心血，现在正处于完善的阶段，需要不断的支持与大力的建议，谢谢。
 
 ### 核心价值宣言
-- >最小可用产品：用最低的成本设计出来只含有核心功能的小程序，核心功能主要围绕着签到功能来进行，通过api来进行不断的核实，最终确定签到人身份
-- 为什么使用小程序作为MVP？
-- 小程序是一项可选的降低成本的方案，而且小程序是一个强有力支持的大平台，增加最小可用产品实施的可行性。
+- 最小可用产品：用最低的成本设计出来只含有核心功能的小程序，核心功能主要围绕着签到功能来进行，通过api来进行不断的核实，最终确定签到人身份
+- - 为什么使用小程序作为MVP？
+- - 小程序是一项可选的降低成本的方案，而且小程序是一个强有力支持的大平台，增加最小可用产品实施的可行性。
 
 ### 核心价值与用户痛点
 - >痛点：课代表点名点错，读错名字，被提早点名，点了答了到但课代表没有听到。等等一系列的问题，都可以通过文中这一与api有关的签到产品来解决。解决了一些列因为人工操作不当所带来的错误，增加课堂签到的有效性。
@@ -47,9 +48,6 @@
  ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
 
 
-### 目标
-- 让产品能够有着其存在的价值，或者换句话说能够让想法解决到现实中存在的问题，不枉作者本人的心血，现在正处于完善的阶段，需要不断的支持与大力的建议，谢谢。
-
 ### 用户定位
 - 学生群体，主要是用于学生的上课签到考勤。
 
@@ -72,17 +70,15 @@
 ### 不做
 - 暂时不做广告接入，先把产品完善到少bug的状态。 
 
-## 交互与界面设计
-- https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/
+ *** 
 
-## Python代码展示
-- https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb
+## 附件超链接
+- Python代码展示 https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb
 
-## API的输入与输出
-- http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
- 
-## 产品工作流程图
-- http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104
+- API的输入与输出http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
 
-## 图片：低保真的交互原型
-- http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5
+
+- 产品工作流程图 http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104
+
+
+- 低保真的交互原型 http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5
