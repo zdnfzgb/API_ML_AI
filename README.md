@@ -42,7 +42,7 @@
 ### Python代码展示
 - 因为mardown中显示ipynb文档的效果不好，请点击链接来查看代码展示，谢谢
 	- 代码链接：<https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
-		[备用链接](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4)：如果github长时间加载不出来代码页面，请点击备用链接。
+	- [备用链接](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4)：如果github长时间加载不出来代码页面，请点击备用链接。
 
 
 ### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
