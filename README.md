@@ -70,7 +70,7 @@
 
  *** 
 
-## 附件超链接
+## 清单
 - Python代码展示 https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb
 
 - API的输入与输出http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
