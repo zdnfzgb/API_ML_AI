@@ -34,6 +34,12 @@
 ### 会用到的API
 - 百度的人脸对比API、百度的语音识别、API以及高德地图API
 
+### API概率性数据
+- 百度的人脸对比API、百度的语音识别、API以及高德地图API
+
+### API可用性的方案分析
+- 百度的人脸对比API、百度的语音识别、API以及高德地图API
+
 ### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
 - 图示：
  ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
