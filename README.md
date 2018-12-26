@@ -32,13 +32,41 @@
 - 交互原型：请点击链接查看<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
 
 ### 会用到的API
-- 百度的人脸对比API、百度的语音识别、API以及高德地图API
+- 百度的人脸对比API、百度的语音识别API、以及高德地图API
 
 ### API概率性数据
-- 百度的人脸对比API、百度的语音识别、API以及高德地图API
+- 百度的人脸对比API、百度的语音识别API、以及高德地图API
 
 ### API可用性的方案分析
-- 百度的人脸对比API、百度的语音识别、API以及高德地图API
+1. 百度人脸对比API定价表
+
+购买的QPS数量 | 按月购买 | 按天购买      
+---|---|---
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+> 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
+
+2. 百度语音识别API定价表
+
+购买的QPS数量 | 按月购买 | 按天购买      
+---|---|---
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+> 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
+
+3. 高德地图API定价表
+
+购买的QPS数量 | 按月购买 | 按天购买      
+---|---|---
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
+> 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
 
 ### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
 - 图示：
