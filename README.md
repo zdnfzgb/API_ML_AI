@@ -48,7 +48,7 @@
 0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
 > 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
 
-2. 百度语音识别API定价表
+2. 百度语音识别API定价规则
 
 - 百度官方问答
     - Q：语音识别、合成接口每天调用限额是多少，如何申请提高限额？
@@ -56,13 +56,31 @@
 
 3. 高德地图API定价表
 
-购买的QPS数量 | 按月购买 | 按天购买      
----|---|---
-0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
-0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
-0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
-0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
-> 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
+<table border=0 cellpadding=0 cellspacing=0 width=518 style='border-collapse:
+ collapse;table-layout:fixed;width:388pt'>
+ <tr height=18 style='height:13.5pt'>
+  <td rowspan=2 height=54 class=xl66 width=72 style='height:40.5pt;width:54pt'>服务</td>
+  <td colspan=2 class=xl66 width=220 style='border-left:none;width:165pt'>个人开发者</td>
+  <td colspan=2 class=xl66 width=226 style='border-left:none;width:169pt'>企业开发者</td>
+ </tr>
+ <tr height=36 style='height:27.0pt'>
+  <td height=36 class=xl67 width=116 style='height:27.0pt;border-top:none;
+  border-left:none;width:87pt'>日调用超量封停（次/日）</td>
+  <td class=xl67 width=104 style='border-top:none;border-left:none;width:78pt'>QPS<br>
+    （次/秒）</td>
+  <td class=xl67 width=131 style='border-top:none;border-left:none;width:98pt'>日调用超量封停<br>
+    （次/日）</td>
+  <td class=xl67 width=95 style='border-top:none;border-left:none;width:71pt'>QPS<br>
+    （次/秒）</td>
+ </tr>
+ <tr height=26 style='mso-height-source:userset;height:19.5pt'>
+  <td height=26 class=xl66 style='height:19.5pt;border-top:none'>地理编码</td>
+  <td class=xl66 style='border-top:none;border-left:none'>6000</td>
+  <td class=xl66 style='border-top:none;border-left:none'>100</td>
+  <td class=xl66 style='border-top:none;border-left:none'>3000000</td>
+  <td class=xl66 style='border-top:none;border-left:none'>1000</td>
+ </tr>
+</table>
 
 ### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
 - 图示：
