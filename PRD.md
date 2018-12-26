@@ -34,20 +34,19 @@
 ### 会用到的API
 - 百度的人脸对比API、百度的语音识别、API以及高德地图API
 
-### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
+### [API的输入与输出](https://i.loli.net/2018/12/26/5c23864c9712b.png)
 - 图示：
- ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
-)
+ ![API的输入与输出](https://i.loli.net/2018/12/26/5c23864c9712b.png
 
 ### Python代码展示
 - 因为mardown中显示ipynb文档的效果不好，请点击链接来查看代码展示，谢谢
 	- 代码链接：<https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
-	- [备用链接](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4)：如果github长时间加载不出来代码页面，请点击备用链接。
+	- [备用链接](https://i.loli.net/2018/12/26/5c23864d0ab7a.png)：如果github长时间加载不出来代码页面，请点击备用链接。
 
 
-### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
+### [产品工作流程](https://i.loli.net/2018/12/26/5c23864cd38f2.png)
 - 流程图：
- ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
+ ![工作流程图](https://i.loli.net/2018/12/26/5c23864cd38f2.png)
 
 
 ### 用户定位
@@ -74,12 +73,12 @@
 ## 清单
 - Python代码展示 <https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
 
-- 【备用】代码展示截图图片：<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4>
+- 【备用】代码展示截图图片：<https://i.loli.net/2018/12/26/5c23864d0ab7a.png>
 
-- API的输入与输出:<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4>
-
-
-- 产品工作流程图 :<http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104>
+- API的输入与输出:<https://i.loli.net/2018/12/26/5c23864c9712b.png>
 
 
-- 交互原型 ：<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5>
+- 产品工作流程图 :<https://i.loli.net/2018/12/26/5c23864cd38f2.png>
+
+
+- 交互原型 ：<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
