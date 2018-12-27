@@ -84,9 +84,9 @@
  </tr>
  <tr height=26 style='mso-height-source:userset;height:19.5pt'>
   <td height=26 class=xl66 style='height:19.5pt;border-top:none'>地理编码</td>
-  <td class=xl66 style='border-top:none;border-left:none'>6000</td>
+  <td class=xl66 style='border-top:none;border-left:none'>6000     </td>
   <td class=xl66 style='border-top:none;border-left:none'>100</td>
-  <td class=xl66 style='border-top:none;border-left:none'>3000000</td>
+  <td class=xl66 style='border-top:none;border-left:none'>3000000  </td>
   <td class=xl66 style='border-top:none;border-left:none'>1000</td>
  </tr>
 </table>
