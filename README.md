@@ -58,6 +58,15 @@
 
 <table border=0 cellpadding=0 cellspacing=0 width=518 style='border-collapse:
  collapse;table-layout:fixed;width:388pt'>
+ <col class=xl65 width=72 style='width:54pt'>
+ <col class=xl65 width=116 style='mso-width-source:userset;mso-width-alt:3712;
+ width:87pt'>
+ <col class=xl65 width=104 style='mso-width-source:userset;mso-width-alt:3328;
+ width:78pt'>
+ <col class=xl65 width=131 style='mso-width-source:userset;mso-width-alt:4192;
+ width:98pt'>
+ <col class=xl65 width=95 style='mso-width-source:userset;mso-width-alt:3040;
+ width:71pt'>
  <tr height=18 style='height:13.5pt'>
   <td rowspan=2 height=54 class=xl66 width=72 style='height:40.5pt;width:54pt'>服务</td>
   <td colspan=2 class=xl66 width=220 style='border-left:none;width:165pt'>个人开发者</td>
@@ -80,6 +89,15 @@
   <td class=xl66 style='border-top:none;border-left:none'>3000000</td>
   <td class=xl66 style='border-top:none;border-left:none'>1000</td>
  </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=72 style='width:54pt'></td>
+  <td width=116 style='width:87pt'></td>
+  <td width=104 style='width:78pt'></td>
+  <td width=131 style='width:98pt'></td>
+  <td width=95 style='width:71pt'></td>
+ </tr>
+ <![endif]>
 </table>
 
 ### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
