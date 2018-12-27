@@ -26,7 +26,10 @@
 - 产品中使用的加值有反映到需求列表中，可用的api有三个，具体的包含如下文所示。
 
 ### 产品迭代规划 
-- 以用户需求反馈作为迭代根据。在每个月的月底都需要对产品进行总结，发现产品的问题，规划产品未来的发展。
+- 2018-12-10：添加展示原型
+- 2018-12-14：完善代码展示
+- 2018-12-25：补充API的产品定价表
+- 2018-12-26：在原型展示中补充引导
 
 ### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
 - 交互原型：请点击链接查看<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
@@ -38,7 +41,7 @@
 - 百度的人脸对比API、百度的语音识别API、以及高德地图API
 
 ### API可用性的方案分析
-1. 百度人脸对比API定价表
+**1. 百度人脸对比API定价表**
 
 购买的QPS数量 | 按月购买 | 按天购买      
 ---|---|---
@@ -48,13 +51,13 @@
 0< QPS <=10 | 300元/月/QPS | 30元/天/QPS
 > 说明：QPS（query per second）指每秒向服务发送的请求数量峰值，相当于每个API每秒可以允许请求的最大上限数量。
 
-2. 百度语音识别API定价规则
+**2. 百度语音识别API定价规则**
 
 - 百度官方问答
     - Q：语音识别、合成接口每天调用限额是多少，如何申请提高限额？
     - A：语音识别、合成接口调用量无限。QPS识别默认为10，合成为100，申请提高配额，请登录控制台，点击百度语音，选择应用列表，选择对应应用，查看详情，点击申请提高配额，一般会在2个工作日内完成审核。
 
-3. 高德地图API定价表
+**3. 高德地图API定价表**
 
 <table border=0 cellpadding=0 cellspacing=0 width=518 style='border-collapse:
  collapse;table-layout:fixed;width:388pt'>
@@ -84,9 +87,9 @@
  </tr>
  <tr height=26 style='mso-height-source:userset;height:19.5pt'>
   <td height=26 class=xl66 style='height:19.5pt;border-top:none'>地理编码</td>
-  <td class=xl66 style='border-top:none;border-left:none'>6000     </td>
+  <td class=xl66 style='border-top:none;border-left:none'>6000</td>
   <td class=xl66 style='border-top:none;border-left:none'>100</td>
-  <td class=xl66 style='border-top:none;border-left:none'>3000000  </td>
+  <td class=xl66 style='border-top:none;border-left:none'>3000000</td>
   <td class=xl66 style='border-top:none;border-left:none'>1000</td>
  </tr>
 </table>
