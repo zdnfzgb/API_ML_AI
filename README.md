@@ -107,22 +107,22 @@
     - Q：语音识别、合成接口每天调用限额是多少，如何申请提高限额？
     - A：语音识别、合成接口调用量无限。QPS识别默认为10，合成为100，申请提高配额，请登录控制台，点击百度语音，选择应用列表，选择对应应用，查看详情，点击申请提高配额，一般会在2个工作日内完成审核。
 
-### [输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
-- 图示：
- ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
+### [输入与输出](https://i.loli.net/2018/12/26/5c23864c9712b.png)
+- API的输入与输出如图所示：
+ ![API的输入与输出](https://i.loli.net/2018/12/26/5c23864c9712b.png
 )
 
 ### 代码展示
 - 因为mardown中显示ipynb文档的效果不好，请点击链接来查看代码展示，谢谢
 	- 代码链接：<https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
-	- [备用链接](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4)：如果github长时间加载不出来代码页面，请点击备用链接。
+	- [备用链接](https://i.loli.net/2018/12/26/5c23864d0ab7a.png)：如果github长时间加载不出来代码页面，请点击备用链接。
 
 ### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
 - 交互原型：请点击链接查看<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
 	
-### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
+### [产品工作流程](https://i.loli.net/2018/12/28/5c2500ba7bc65.png)
 - 流程图：
- ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
+ ![工作流程图](https://i.loli.net/2018/12/28/5c2500ba7bc65.png)
 
 ### 不做
 - 暂时不做广告接入，先把产品完善到少bug的状态。 
@@ -138,12 +138,12 @@
 ## 清单
 - Python代码展示 <https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
 
-- 【备用】代码展示截图图片：<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4>
+- 【备用】代码展示截图图片：<https://i.loli.net/2018/12/26/5c23864d0ab7a.png>
 
-- API的输入与输出:<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4>
-
-
-- 产品工作流程图 :<http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104>
+- API的输入与输出:<https://i.loli.net/2018/12/26/5c23864c9712b.png>
 
 
-- 交互原型 ：<http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/dIGegZSSpRLb.H5p.csoTYWwj1rUkdbteNc1KB0t5dQ!/b/dDcBAAAAAAAA&bo=GQRZAgAAAAADF3Q!&rf=viewer_4&t=5>
+- 产品工作流程图 :<https://i.loli.net/2018/12/28/5c2500ba7bc65.png>
+
+
+- 交互原型 ：<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
