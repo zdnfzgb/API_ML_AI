@@ -89,15 +89,6 @@
   <td class=xl66 style='border-top:none;border-left:none'>3000000</td>
   <td class=xl66 style='border-top:none;border-left:none'>1000</td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=72 style='width:54pt'></td>
-  <td width=116 style='width:87pt'></td>
-  <td width=104 style='width:78pt'></td>
-  <td width=131 style='width:98pt'></td>
-  <td width=95 style='width:71pt'></td>
- </tr>
- <![endif]>
 </table>
 
 ### [API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
