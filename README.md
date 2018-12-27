@@ -5,14 +5,16 @@
 - 文件现状：进行中 
 - 文件的主人：张广彬 
 
-**目录**
+### 目录
 
 产品描述 | API相关事项 | 交互原型及其他杂项
 ---|---|---
 [加值宣言](#加值宣言) | [API概率性数据](#概率性数据) | [交互与界面设计](#交互与界面设计)
 [核心价值宣言](#核心价值宣言) | [API可用性的方案分析](#可用性的方案分析) | [产品工作流程](#产品工作流程)
 [核心价值与用户痛点](#核心价值与用户痛点) | [API的输入与输出](#API的输入与输出) | [产品迭代规划 ](#产品迭代规划 )
-[使用场景](#使用场景) | [Python代码展示](#Python代码展示) | [不做](#不做)
+[使用场景](#使用场景) | [Python代码展示](#代码展示) | [不做](#不做)
+
+---
 
 ### 加值宣言
 - 用户定位:学生群体，主要是用于学生的上课签到考勤。
@@ -28,10 +30,6 @@
 - 痛点：课代表点名点错，读错名字，被提早点名，点了答了到但课代表没有听到。等等一系列的问题，都可以通过文中这一与api有关的签到产品来解决。解决了一些列因为人工操作不当所带来的错误，增加课堂签到的有效性。
 - 平时上课签到浪费时间，听着名字一个一个念过，也就意味着时间流失。而且实际上的点名效率并不高，存在误签或者代签的情况，该产品刚好可以解决以上问题。
 
-### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
-- 流程图：
- ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
-	
 ### 使用场景
 - 假设
     - 用户在使用此产品时，主要是在APP上使用，通过注册登录账号，然后选择自己即将上课的课程。通过GPS定位系统来确定用户是否在上课地点的位置，确定位置之后，方可开始签到。如果GPS功能不可用，需要找到班级对应的老师，让老师进行后台帮助学生签到。
@@ -44,9 +42,6 @@
     - 可以完成的问题：完成一些基本的签到任务，可以对人脸进行简单的识别，对人声进行简单的识别，最终完成同学的签到
 - 需求列表与人工智能加值 
 	- 产品中使用的加值有反映到需求列表中，可用的api有三个，具体的包含如下文所示。
-
-### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
-- 交互原型：请点击链接查看<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
 
 ### 概率性数据
 - 人工智能的产品或服务若迟迟没有得到广泛认可，本质原因是产品从概率上不能满足用户的需求。而对于文中所提过的用户痛点，绝大部分都是可以通过api来解决的，但缺乏相关的测试知识，暂时无法给出具体的人工智能概率数据。所以单从人工所出现的错误来讲，智能api能够解决大部分来自于认为错误的问题。
@@ -112,7 +107,6 @@
     - Q：语音识别、合成接口每天调用限额是多少，如何申请提高限额？
     - A：语音识别、合成接口调用量无限。QPS识别默认为10，合成为100，申请提高配额，请登录控制台，点击百度语音，选择应用列表，选择对应应用，查看详情，点击申请提高配额，一般会在2个工作日内完成审核。
 
-
 ### [输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4)
 - 图示：
  ![API的输入与输出](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/YtKvVLEOck50KcjT7fydOs60mdNhBGbsSb7y9mXIqRs!/b/dDYBAAAAAAAA&bo=wQMuAgAAAAADB8w!&rf=viewer_4
@@ -123,6 +117,13 @@
 	- 代码链接：<https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
 	- [备用链接](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/twiQlMDz0fEg7Huc40r6oHBgFleql7NC9xTaavTfMus!/b/dL8AAAAAAAAA&bo=1ANiB9QDYgcDCSw!&rf=viewer_4)：如果github长时间加载不出来代码页面，请点击备用链接。
 
+### [交互与界面设计](https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/)
+- 交互原型：请点击链接查看<https://zdnfzgb.github.io/QIMOXIANGMU_FOR_API/>
+	
+### [产品工作流程](http://naotu.baidu.com/file/d135db537b7dd495173f374a1c5fb6e4?token=61ed5d774dc91104)
+- 流程图：
+ ![工作流程图](http://m.qpic.cn/psb?/V11pnbYZ3BKYjZ/htVx0hbhStxh8B6otKKwWPzHmLLaxbohUIA2ClMREEQ!/b/dFQBAAAAAAAA&bo=PwfCAQAAAAADB9k!&rf=viewer_4)
+
 ### 不做
 - 暂时不做广告接入，先把产品完善到少bug的状态。 
 
@@ -132,7 +133,7 @@
 - 2018-12-25：补充API的产品定价表
 - 2018-12-26：在原型展示中补充引导
 
- *** 
+--- 
 
 ## 清单
 - Python代码展示 <https://github.com/zdnfzgb/API_ML_AI/blob/master/Python_code_presentation.ipynb>
